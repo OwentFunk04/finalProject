@@ -1,0 +1,49 @@
+* {
+    /* border: 0;
+    padding: 0; */
+    font-family: 'Oswald', sans-serif;
+}
+body {
+    background: linear-gradient(90deg, #7fffd4, #6495ed);
+    text-align: center;
+    align-items: center;
+}
+.img {
+    width: 450px;
+    height: auto;
+    display: inline;
+}
+.details {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    padding: 0 50px 0 50px;
+    margin: 50px;
+}
+h1 {
+    font-size: 100px;
+}
+h2 {
+    font-size: 75px;
+}
+h3 {
+    font-size: 50px;
+}
+p {
+    font-size: 50px;
+}
+input {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+button {
+    width: 500px;
+    height: 20px;
+}
